@@ -33,11 +33,10 @@ Este é um **sistema bancário simples** desenvolvido em Python, que permite ao 
 
 1. Clone este repositório ou copie o código para o seu ambiente local.  
 2. Execute o script em Python (versão 3.x recomendada):  
-   ```bash
+   
    python banco.py
 Siga o menu interativo exibido no terminal:
 
-csharp
 Copiar código
 [1] Depositar
 [2] Sacar
